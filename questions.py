@@ -1,5 +1,5 @@
 SUBJECTS = {
-    "islamic":  {"name": "الإسلامية", "icon": "☪️"},
+    "islamic":  {"name": "الإسلامية", "icon": ""},
     "arabic":   {"name": "العربي",    "icon": "📝"},
     "english":  {"name": "الإنكليزي","icon": "🇬🇧"},
     "physics":  {"name": "الفيزياء", "icon": "⚡"},
