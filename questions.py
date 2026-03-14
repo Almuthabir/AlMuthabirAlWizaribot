@@ -1,12 +1,12 @@
 SUBJECTS = {
     "islamic":  {"name": "الإسلامية", "icon": ""},
-    "arabic":   {"name": "العربي",    "icon": "📝"},
-    "english":  {"name": "الإنكليزي","icon": "🇬🇧"},
+    "arabic":   {"name": "العربي",    "icon": ""},
+    "english":  {"name": "الإنكليزي","icon": ""},
     "physics":  {"name": "الفيزياء", "icon": "⚡"},
     "chemistry":{"name": "الكيمياء", "icon": "🧪"},
     "biology":  {"name": "الأحياء",  "icon": "🧬"},
     "math":     {"name": "الرياضيات","icon": "📐"},
-    "french":   {"name": "الفرنسي",  "icon": "🇫🇷"},
+    "french":   {"name": "الفرنسي",  "icon": ""},
 }
 
 QUESTION_BANK = {
