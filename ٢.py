@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # الجزء 5: الملف الرئيسي (bot.py)
 import asyncio
 import logging
